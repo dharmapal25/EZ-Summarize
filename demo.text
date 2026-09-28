@@ -1,0 +1,8 @@
+npm i @langchain/community @langchain/core @google/genai @langchain/google-genai @langchain/textsplitters 
+
+
+@langchain/pinecone @pinecone-database/pinecone 
+
+
+
+dotenv pdf-parse readline-sync
