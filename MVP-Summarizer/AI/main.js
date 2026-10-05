@@ -1,5 +1,5 @@
 import { RecursiveCharacterTextSplitter } from '@langchain/textsplitters';
-import env from '../src/config/env.js';
+import env from '../../src/config/env.js';
 import Groq from 'groq-sdk';
 import fs from "fs/promises";
 // 1. Load Docs 

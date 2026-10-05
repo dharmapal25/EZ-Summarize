@@ -1,7 +1,7 @@
 import fs from "fs/promises";
 import path from "path";
 import { GoogleGenAI } from "@google/genai";
-import env from "../src/config/env.js";
+import env from "../../src/config/env.js";
 
 const ai = new GoogleGenAI({
     apiKey: env.GOOGLE_API_KEY 
